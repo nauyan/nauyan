@@ -1,4 +1,4 @@
-# Syed Nauyan Rashid [![HitCount](http://hits.dwyl.com/hasanalikhattak/hasanalikhattak.svg)](http://hits.dwyl.com/hasanalikhattak/hasanalikhattak)
+# Syed Nauyan Rashid [![HitCount](http://hits.dwyl.com/https://githubcom/nauyan//https://githubcom/nauyan/nauyan.svg)](http://hits.dwyl.com/https://githubcom/nauyan//https://githubcom/nauyan/nauyan)
 ## Machine Learning Engineer (Computer Vision), Esper Solutions, Islamabad, Pakistan. (2019 - Present)
 ## Ph.D. Computer Science, School of Electrical Engineering & Computer Science (SEECS), NUST, Pakistan. (2019 - 2022)
 
