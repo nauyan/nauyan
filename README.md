@@ -15,4 +15,5 @@ He loves being social and is good with people. Loves watching movies, playing co
 
 Feel free to contact [📩 Contact Me](nauyan@hotmail.com)
 
+
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/nauyan/nauyan/master/linkedin-icon.png)](https://www.linkedin.com/in/nauyan/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/nauyan/nauyan/master/twitter-icon.png)](https://twitter.com/NauyanRashid) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/nauyan/nauyan/master/instagram-icon.png)](https://www.instagram.com/nauyanrashid/)
