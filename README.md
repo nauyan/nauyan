@@ -1,16 +1,18 @@
-### Hi there 👋
+# Syed Nauyan Rashid [![HitCount](http://hits.dwyl.com/hasanalikhattak/hasanalikhattak.svg)](http://hits.dwyl.com/hasanalikhattak/hasanalikhattak)
+## Machine Learning Engineer (Computer Vision), Esper Solutions, Islamabad, Pakistan. (2019 - Present)
+## Ph.D. Computer Science, School of Electrical Engineering & Computer Science (SEECS), NUST, Pakistan. (2019 - 2022)
 
-<!--
-**nauyan/nauyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Syed Nauyan Rashid is pursuing PH.D in Computer Science from NUST-SEECS, Pakistan with reserach focused on Bio-Medical Imaging. He received his Master's degree in Computer Science from NUCES-FAST, Pakistan on December 2019, Bachelor's degree in Computer Science from NUCES-FAST , Pakistan, in 2016. He is currently working as Machine Learning Engineer at Esper Solutions, Islamabad, Paksitan.
 
-Here are some ideas to get you started:
+His current research interests focus on Medical Imaging, Computer Vision, Deep Learning and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He loves being social and is good with people. Loves watching movies, playing computer games, surfing the world wide web and along that loves to capture photos. 
+
+* 💬 Feel free to ask me about `Deep Learning, Python, Tensorflow / Keras, Linux, Machine Learning.
+* 📖 Learning about `Machine Learning, Computer Vision, Medical Imaging
+* ⚡ Learning about Latest news in Tech industry, Huge Linux Fan, Deep Learning
+* 🤝 Contributing to Open Source Projects
+
+Feel free to contact [📩 Contact Me](nauyan@hotmail.com)
+
+&nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/nauyan/nauyan/master/linkedin-icon.png)](https://www.linkedin.com/in/nauyan/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/nauyan/nauyan/master/twitter-icon.png)](https://twitter.com/NauyanRashid) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/nauyan/nauyan/master/instagram-icon.png)](https://www.instagram.com/nauyanrashid/)
