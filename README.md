@@ -13,7 +13,8 @@ He loves being social and is good with people. Loves watching movies, playing co
 * ⚡ Learning about Latest news in Tech industry, Huge Linux Fan, Deep Learning
 * 🤝 Contributing to Open Source Projects
 
-Feel free to contact [📩 Contact Me](nauyan@hotmail.com)
+![Nauyan github stats](https://github-readme-stats.vercel.app/api?username=nauyan&show_icons=true&hide_border=true)
 
+Feel free to contact [📩 Contact Me](nauyan@hotmail.com)
 
 &nbsp;&nbsp; [![LinkedIn](https://raw.githubusercontent.com/nauyan/nauyan/master/linkedin-icon.png)](https://www.linkedin.com/in/nauyan/) &nbsp;&nbsp;[![Twitter](https://raw.githubusercontent.com/nauyan/nauyan/master/twitter-icon.png)](https://twitter.com/NauyanRashid) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/nauyan/nauyan/master/instagram-icon.png)](https://www.instagram.com/nauyanrashid/)
