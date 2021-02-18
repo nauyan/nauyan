@@ -1,6 +1,6 @@
 # Syed Nauyan Rashid [![HitCount](http://hits.dwyl.com/https://githubcom/nauyan//https://githubcom/nauyan/nauyan.svg)](http://hits.dwyl.com/https://githubcom/nauyan//https://githubcom/nauyan/nauyan)
-## Machine Learning Engineer (Computer Vision), RedBuffer, Islamabad, Pakistan. (2020 - Present)
-## Ph.D. Computer Science, School of Electrical Engineering & Computer Science (SEECS), NUST, Pakistan. (2019 - 2022)
+### Machine Learning Engineer (Computer Vision), RedBuffer, Islamabad, Pakistan. (2020 - Present)
+### Ph.D. Computer Science, School of Electrical Engineering & Computer Science (SEECS), NUST, Pakistan. (2019 - 2022)
 
 Syed Nauyan Rashid is pursuing PH.D in Computer Science from NUST-SEECS, Pakistan with reserach focused on Bio-Medical Imaging. He received his Master's degree in Computer Science from NUCES-FAST, Pakistan on December 2019, Bachelor's degree in Computer Science from NUCES-FAST , Pakistan, in 2016. He is currently working as Machine Learning Engineer at Esper Solutions, Islamabad, Paksitan.
 
